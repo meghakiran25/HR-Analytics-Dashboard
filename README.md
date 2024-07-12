@@ -2,7 +2,7 @@
 
 ![hr analytics](https://github.com/user-attachments/assets/e0f1c448-2cd8-4af5-8d28-907dc22b17ef)
 
-**OBJECTIVE**
+**Objective**
 
 The main goal of this project is to assist an organization in enhancing employee performance and retention (reducing attrition) through the development of an HR Analytics dashboard.
 
@@ -31,3 +31,7 @@ Average Tenure: Average number of years employees have spent working at the comp
 4.Employees mostly leave after 1 year.
 
 5.The top 4 job roles with the highest attrition rates are Laboratory Technician, Sales Executive, Research Scientist, and Sales Representative.
+
+**Conclusion**
+
+From the above insights we can make informed decisions to reduce attrition by implementing targeted career development and mentorship programs for Life Sciences graduates, adjust salaries to be more competitive, and enhance the onboarding process to improve the first-year experience. Additionally, providing flexible work options and specialized training for high-attrition roles will address key areas of employee dissatisfaction. These measures will help retain talent, particularly among vulnerable age groups and specific job roles.
