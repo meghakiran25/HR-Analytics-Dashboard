@@ -1,2 +1,2 @@
 # HR Analytics Dashboard
-![Uploading hr analytics.PNG…]()
+![Uploading hr analytics.PNG…]
